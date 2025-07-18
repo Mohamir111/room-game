@@ -46,7 +46,7 @@ Make sure you have Python installed (3.6+ recommended).
 Clone the repository:
 
 
-git clone https://github.com/YOUR_USERNAME/room-game.git
+git clone https://github.com/mohamir111/room-game.git
 cd room-game
 Run the game:
 
