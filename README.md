@@ -85,6 +85,6 @@ GitHub: @mohamir111
 
 ---
 
-✅ You can now copy this into your `README.md` file in the game folder.
+
 
 Let me know if you want me to zip it with the game code for upload or help you push it to GitHub.
