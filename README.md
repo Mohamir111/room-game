@@ -50,10 +50,8 @@ git clone https://github.com/YOUR_USERNAME/room-game.git
 cd room-game
 Run the game:
 
-bash
-Copy
-Edit
-python game.py
+
+python room-game.py
 📚 What You'll Learn
 Nested dictionaries
 
